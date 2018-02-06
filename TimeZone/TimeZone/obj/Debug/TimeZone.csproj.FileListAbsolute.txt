@@ -1,0 +1,6 @@
+D:\Proyectos hl\TimeZone\TimeZone\bin\Debug\TimeZone.exe.config
+D:\Proyectos hl\TimeZone\TimeZone\bin\Debug\TimeZone.exe
+D:\Proyectos hl\TimeZone\TimeZone\bin\Debug\TimeZone.pdb
+D:\Proyectos hl\TimeZone\TimeZone\obj\Debug\TimeZone.csprojResolveAssemblyReference.cache
+D:\Proyectos hl\TimeZone\TimeZone\obj\Debug\TimeZone.exe
+D:\Proyectos hl\TimeZone\TimeZone\obj\Debug\TimeZone.pdb
